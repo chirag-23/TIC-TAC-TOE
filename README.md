@@ -5,7 +5,7 @@ Problem: Given a 3x3 grid, the agents has to find the optimal cell to fill with 
 Goals: To find the optimal cell to fill with respective marks and in order to win the game, the cell must be filled such that one of the following criteria is satisfied:
 1. A row is completely filled by a mark ‘X’ or ‘O’.
 2. A diagonal is completely filled by a mark ‘X’ or ‘O’. 
-3. 3. A column is completely filled by a mark ‘X’ or ‘O’.
+3. A column is completely filled by a mark ‘X’ or ‘O’.
 
 If these criteria are not satisfied by both the agents, the game is terminated with a tie situation.
 
